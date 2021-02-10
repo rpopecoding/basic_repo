@@ -1,0 +1,25 @@
+click button in github to make new respository, name it accordingly.
+
+create local git directory, create files using touch command
+
+add all files to staging
+
+git commit
+
+$ git remote add origin https://github.com/rpopecoding/basic_repo.git
+add remote respository named origin referencing the github link
+
+$ git push origin master
+struggle with password again
+
+use windows gui to add content to index and style.  Fiddle with them to make sure they work the way I think the code is supposed to work.
+
+$ git add .
+$ git commit -m "made real adustments"
+$ git push origin master
+
+yay I'm still authenticated
+
+go to personal github page.  my work is there.  I can read the code.
+
+
